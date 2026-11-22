@@ -1,0 +1,19 @@
+entity,target,method,MAPE_%,day7_error_%,inside_band_%
+India,confirmed,Prophet,0.6377945669300752,1.158153234041817,33.333333333333336
+India,confirmed,linear (last 7-day average),2.312593669530193,4.6043243963919815,
+India,confirmed,persistence (repeat last total),12.752314322263976,21.62110216357816,
+India,deaths,Prophet,3.3981674374226567,4.095609792546649,76.19047619047619
+India,deaths,linear (last 7-day average),3.744871793516035,4.696832489826038,
+India,deaths,persistence (repeat last total),11.905781297881768,18.181819648417854,
+India,recovered,Prophet,1.155052425297986,1.734216613261222,78.57142857142857
+India,recovered,linear (last 7-day average),2.847655581222888,5.332133594673704,
+India,recovered,persistence (repeat last total),14.51416715823713,24.201056710306244,
+World,confirmed,Prophet,0.27245482774799284,0.3206188629921837,50.0
+World,confirmed,linear (last 7-day average),0.7928184814348033,1.1739569441287003,
+World,confirmed,persistence (repeat last total),6.749506537707998,11.266994378326538,
+World,deaths,Prophet,0.3454146513360646,0.5210064200327045,50.0
+World,deaths,linear (last 7-day average),0.5471577349359882,0.599949029157896,
+World,deaths,persistence (repeat last total),4.045613906475512,6.478672389930822,
+World,recovered,Prophet,1.2088827274189178,1.8888360930809818,69.04761904761905
+World,recovered,linear (last 7-day average),1.493864668022259,2.3393504386730637,
+World,recovered,persistence (repeat last total),8.589447218228303,14.125575865790573,
