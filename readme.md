@@ -142,6 +142,18 @@ For India the model expects about 56,000 new cases a day next week, up 21% from 
 | 18, 19 | Forecast for the world and India: real data, 7-day forecast and uncertainty band |
 | 20, 21 | Backtest: forecast error by method, and last week's forecast against what happened |
 
+## Chart previews
+
+(The interactive versions are the `.html` files in `outputs/figures/`.)
+
+![World daily new cases](outputs/figures/03_world_daily_new.png)
+![Infection vs recovery](outputs/figures/05_world_infection_vs_recovery.png)
+![Confirmed cases by country](outputs/figures/09_world_map_confirmed.png)
+![India vs the other largest outbreaks](outputs/figures/16_india_vs_peers.png)
+![World forecast](outputs/figures/18_forecast_world.png)
+![India forecast](outputs/figures/19_forecast_india.png)
+![Backtest: last week](outputs/figures/21_backtest_last_week.png)
+
 ## 7. Limitations
 
 - **The forecasts lean low.** In the backtest, 86% of forecasts ended below the real value, because cases were still
